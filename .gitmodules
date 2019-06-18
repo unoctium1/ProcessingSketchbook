@@ -1,0 +1,3 @@
+[submodule "P5JS-Sketches"]
+	path = P5JS-Sketches
+	url = https://github.com/unoctium1/P5JS-Sketches.git
